@@ -8,7 +8,7 @@
 
 ### Getting project
 
-Create a Fork of this project with your github account. If you don't have one or you want to just clone the project it's also fine, just remember to put it on WeTransfer or your GDrive afterwards. After finishing it, please share it with [Tim](tim@virtexstadium.com)
+Create a Fork of this project with your github account. If you don't have one or you want to just clone the project it's also fine, just remember to put it on WeTransfer or your GDrive afterwards. After finishing it, please share it with [Tim](mailto:tim@virtexstadium.com)
 
 ## The Problem
 
