@@ -4,7 +4,7 @@
 
 ### Dependencies
 
-* Make sure that you are using Unreal 4.26.2 or above
+* Make sure that you are using Unreal 5.2 or above
 
 ### Getting project
 
