@@ -31,6 +31,10 @@
 				"Android",
 				"VisionOS"
 			]
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
